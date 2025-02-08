@@ -1,0 +1,15 @@
+@media screen and (max-width: 1285px) {
+    
+.cards-container{
+    grid-template-columns: repeat(2,1fr);
+}
+    
+}
+
+@media screen and (max-width: 1515px) {
+    
+    .cards-container{
+        grid-template-columns: repeat(3,1fr);
+    }
+        
+    }
